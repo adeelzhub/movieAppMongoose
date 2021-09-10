@@ -1,4 +1,4 @@
-List of Commands.
+#List of Commands.
 
 <list> 
 List all the entries from the database.
