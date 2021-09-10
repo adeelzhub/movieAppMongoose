@@ -1,21 +1,21 @@
-#List of Commands.
+# List of Commands.
 
-<list> 
+## <list> 
 List all the entries from the database.
 Arguments -No Arguments required.
 
-<find> 
+## <find> 
 Find an entry by taking name of the movie.
 Arguments - <name>.
 
-<add>
+## <add>
 Add a movie to the database.
 Arguments - <name> <actor> <watchedOrNot>.
 
-<update> 
+## <update> 
 Update watchedOrNot field of a movie by taking name and watchedOrNot status.
 Arguments - <name> <watchedOrNot>.
 
-<delete> 
+## <delete> 
 Delete an entry
 Arguments - <name>
